@@ -1,0 +1,3 @@
+Options All
+RewriteEngine On
+RewriteRule ^school/([^/]*)$ /info.php?school=$1 [L]
